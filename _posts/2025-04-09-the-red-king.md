@@ -1,11 +1,6 @@
 ---
 title: The Red King
 excerpt: A fifteen-act tragedy.
-categories:
-  - Stories
-tags:
-  - NSFW
-  - Original Creation
 ---
 # The Red King
 
