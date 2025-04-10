@@ -5,11 +5,11 @@ permalink: /about-kyrie/
 author_profile: false
 class: wide
 ---
-i'm a transsexual woman from Bucharest, Romania. i'm interested in various types of coding, writing memorable stories, videogames and leaving a mark on the world.
-
-<figure style="width: 150px" class="align-right">
+<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/KyrieAbout.jpg" alt="">
 </figure>
+
+i'm a transsexual woman from Bucharest, Romania. i'm interested in various types of coding, writing memorable stories, videogames and leaving a mark on the world.
 
 # personality:
 - i'm bold, hotheaded, sanguine, experimental, talkative, confident, curious, passionate, mysterious, disciplined, assertive, warm, loyal, persistent, fiery and motivated by failure.
@@ -38,5 +38,5 @@ i'm a transsexual woman from Bucharest, Romania. i'm interested in various types
 
 # fun facts:
 - i like red.
-- my name stands for "Lord, have mercy". or just "rent" in romanian.
+- my name stands for "Lord, have mercy".
 - i had a cult at some point.

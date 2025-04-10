@@ -2,11 +2,6 @@
 title: You Can't Save All The Puppies
 excerpt: A short slideshow.
 permalink: /puppies/
-categories:
-  - video
-tags:
-  - story
-  - Kyrie
 ---
 
 Available on YouTube.
