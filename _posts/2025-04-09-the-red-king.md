@@ -4,7 +4,7 @@ excerpt: A fifteen-act tragedy.
 ---
 # The Red King
 
-# ACT 1: Girl's Night
+## ACT 1: Girl's Night
 
 > **TRIGGER WARNING**
 > 
@@ -56,7 +56,7 @@ YOUNG WOMAN: Oh, look! This VAP fucker had a reckorder on him – wasn't this on
 OLDER WOMAN: So you're sure, absolutely sure that this'll work?
 REDHEAD: I'm sure. Something beautiful is going to happen. Those 7-P bastards are gonna kneel in less than a century.
 
-# ACT 2 – The Table Is Set
+## ACT 2 – The Table Is Set
 ## Period: 8 Years Ago … Year: 1976 … Location: NEPTUNE
 
 *A dozen people sit in their chairs next to a massive table in a lavishly-decorated and open room. At the end sits an imposing figure with their hands cupped. The figure starts speaking…*
@@ -123,7 +123,7 @@ REDHEAD: I'm sure. Something beautiful is going to happen. Those 7-P bastards ar
 
 *A thunderous applause echoes in the meeting room.*
 
-# ACT 3 – Katherina
+## ACT 3 – Katherina
 
 ## Period: Present Day … Year: 1984 … Location: Venus
 
@@ -154,7 +154,7 @@ Time would march on, the emptiness and loneliness in her chest expanding, as she
 For all she ever knew, there was no one and nothing left.
 Katherina, stranded in a vast frigid place, ever since the **SUN** departed…
 
-# ACT 4 – The RED KING
+## ACT 4 – The RED KING
 ## Period: Present Day … Year: 1984 … Location: Venus
 
 Katherina was laid upon her bed, half-dreaming, after voraciously consuming the latest find that she'd tossed in the Venusian literature pile…
@@ -182,7 +182,7 @@ She starts telling him how alone she'd been, and how there's no one left, and ho
 This noise would no longer rattle her entire home. And it'd start to no longer rattle her soul:
 **"WHAT A BEAUTIFUL NAME, LITTLE GIRL."**
 
-# ACT 5 – His Queen
+## ACT 5 – His Queen
 
 ## Period: Present Day … Year: 1984 … Location: Venus
 
@@ -221,7 +221,7 @@ She quickly answers.
 The air is still for a brief second. Then **MARS** asks:  
 **"DO YOU LOVE ME?"**
 
-# ACT 6 – White Cell
+## ACT 6 – White Cell
 
 ## Period: 8 Years Ago … Year: 1976 … Location: VENUS
 
@@ -249,7 +249,7 @@ The air is still for a brief second. Then **MARS** asks:
 > - *That the sun would one day leave us.*
 > - *I don't think there's much left in me.*
 
-# ACT 7 – Red Sex
+## ACT 7 – Red Sex
 ## Period: Present Day … Year: 1985 … Location: Venus
 
 The sex was a little awkward.
@@ -276,7 +276,7 @@ And then she spirals from there…
 
 I normally shut her up by the time she gets to that part.
 
-# ACT 8 – Waiting For Black Metal Records To Come In The Mail
+## ACT 8 – Waiting For Black Metal Records To Come In The Mail
 ## Period: Present Day … Year: 1986 … Location: Venus
 
 Katherina's life felt like a joke at her expense.  
@@ -294,7 +294,7 @@ Their more philosophical & practical discussions stopped altogether. It's just a
 
 **MARS** had to be hiding something. Something was wrong, deeply wrong, and this could not be kept up any longer.
 
-# ACT 9 – Attempt #333
+## ACT 9 – Attempt #333
 ## Period: 29 Years Ago … Year: 1959 … Location: Earth
 
 Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germany, is neck deep in debt to the wrong people. The space colonization efforts were just starting in this period. Hoping she could create an ultra-durable material capable of assisting in colonization of the toughest environments, she gets to work in search of her future patent. These are a few of her test logs.
@@ -367,7 +367,7 @@ Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germ
 > **Beschreibung:** Extrem langlebiges, flexibles Material, geeignet für Industrie- und Weltraumumgebungen.
 > **Hinweise:** ICH HAB ES ENDLICH GESCHAFFT, VERDAMMT!
 
-# ACT 10 – Black Metal Records
+## ACT 10 – Black Metal Records
 ## Period: Present Day … Year: 1987 … Location: Venus
 
 Tonight was silent.
@@ -422,7 +422,7 @@ Mars would be sorry.
 
 Mars was the night, the nightmare.
 
-# ACT 11 – Curse of the RED KING
+## ACT 11 – Curse of the RED KING
 ## Period: Present Day … Year: 1987 … Location: VENUS
 
 _**KATHERINA**, with Mars in her cupped palms, levitates above the yellow atmosphere of Venus. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open._
@@ -500,7 +500,7 @@ _**MARS** strokes her shriveling, now-white hair._
 *And **VENUS** would be once more.*
 
 ## ACT 12 – Stories
-#### Period: Present Day … Year: 1988 … Location: URANUS
+## Period: Present Day … Year: 1988 … Location: URANUS
 
 A man in his forties stands in front of his reckoner box. He tries to select the Broadcast Channel but is quickly interrupted by a damn-near one minute advertisement.
 
@@ -558,7 +558,7 @@ Another man, in his thirties, drags the Asset Protection captain by the collar a
 He scoffs – "7-P's calling it a tourist resort. I call it total lunacy."
 
 ## ACT 13 – Water Womb World
-#### Period: Present Day … Year: 1989 … Location: VENUS
+## Period: Present Day … Year: 1989 … Location: VENUS
 
 > An old woman, wrinkled face, hurriedly enters a closed office with a sizeable box of tapes. She tosses most of the lot away and produces one labeled "Vitruvian Motel – VAP 33-102", inserting it into her personal reckoner.
 > 
@@ -647,7 +647,7 @@ MIKE: O-OPEN THE DOOR, IT'S THE FUCKING COPS.
 
 > *The woman jerks out of her seat and runs toward the nearest exit. There's still time left. Time left to warn them…*
 
-# ACT 14 – The Red Chariot
+## ACT 14 – The Red Chariot
 
 ## Period: ?????? … Year: ?????? … Location: ??????
 
@@ -680,7 +680,7 @@ _**URANUS**, the **TOWER OF CALAMITY**, dilligently collected parts of her mantl
 
 _My crusade is righteous, my cause just. I burn with the lost souls of billions. I am the last hope of a dying WORLD. The **==RED CHARIOT==**._
 
-# ACT 15 – Flies Have Their House
+## ACT 15 – Flies Have Their House
 ## Period: Present Day … Year: 1989 … Location: NEPTUNE
 
 Chief Executive Officer Edelweiss sits – hands in lap – in front of her reckorder device. This was the same meeting table she delivered hundreds of rousing speeches in. Only now, she's alone.
@@ -723,6 +723,6 @@ Chief Executive Officer Edelweiss sits – hands in lap – in front of her reck
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1jfMSzP7SKA?si=lvbh3Vy7qwSnhr9t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# THE END
 
-_The Red King © 2025 by Kyrie Edelweiss is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)._
+
+# THE END
