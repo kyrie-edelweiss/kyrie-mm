@@ -6,14 +6,16 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/HomeBanner.jpg
   actions:
-    - label: "watch "You Can't Save All The Puppies""
+    - label: 'watch "You Can't Save All The Puppies"'
       url: "/puppies/"
   caption: "Credit: [**rose-engine**](https://store.steampowered.com/app/1262350/SIGNALIS/)"
 excerpt: "A collection of short stories, and a testament to my failures."
+intro:
+  - excerpt: " "
 feature_row:
   - image_path: /assets/images/PuppyPreview.png
     title: "You Can't Save All The Puppies"
-    excerpt: "a slideshow-story in sketch format. contains themes of animal & child abuse."
+    excerpt: "a sketch-slide video. contains themes of animal & child abuse."
     url: "/puppies/"
     btn_label: "watch"
     btn_class: "btn--primary"
@@ -24,5 +26,7 @@ feature_row:
     btn_label: "read"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
