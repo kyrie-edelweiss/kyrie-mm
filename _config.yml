@@ -318,11 +318,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       share: false
-      related: true
-      show_date: true
+      related: false
+      show_date: false
  # _pages
   - scope:
       path: ""
@@ -330,5 +330,5 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      show_date: true
+      read_time: false
+      show_date: false

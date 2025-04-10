@@ -2,8 +2,11 @@
 title: The Red King
 excerpt: A fifteen-act tragedy.
 permalink: /red-king/
+toc: true
+toc_label: Chapters
+toc_sticky: true
 ---
-## ACT 1: Girl's Night
+## ACT 1 – Girl's Night
 
 > **TRIGGER WARNING**
 > 
@@ -644,7 +647,7 @@ MIKE: O-OPEN THE DOOR, IT'S THE FUCKING COPS.
 
 > *The woman jerks out of her seat and runs toward the nearest exit. There's still time left. Time left to warn them…*
 
-## ACT 14 – The Red Chariot
+## ACT 14 – The RED CHARIOT
 **Period: ?????? … Year: ?????? … Location: ??????**
 
 _**NEPTUNE**, the **APEX OF JUDGEMENT** would seal my fate – execution._
@@ -674,7 +677,7 @@ _Finally, **JUPITER**, the **WORLD SEEKER**, armed me with the knowledge to tran
 
 _The **FOOL** will pay for everything – every wrongdoing ever done, be it celestial or terrestrial. No matter how many milennia it'll take._
 
-_My crusade is righteous, my cause just. I burn with the lost souls of billions. I am the last hope of a dying WORLD. The **RED CHARIOT**._
+_My crusade is righteous, my cause just. I burn with the lost souls of billions. I am the last hope of a dying world. The **RED CHARIOT**._
 
 ## ACT 15 – Flies Have Their House
 **Period: Present Day … Year: 1989 … Location: NEPTUNE**
