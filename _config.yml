@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Kyrie Archive"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : A collection of testaments. # site tagline that appears below site title in masthead
 name                     : "Kyrie D'Agostino"
 description              : "This place is not a place of honor - nothing is valued here."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -321,6 +321,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true

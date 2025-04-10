@@ -1,11 +1,13 @@
 ---
-layout: post
 title: The Red King
 excerpt: A fifteen-act tragedy.
+categories:
+  - Stories
+tags:
+  - NSFW
+  - Original Creation
 ---
 # The Red King
-
-The Red King © 2025 by [Kyrie Edelweiss](http://kyrie.edelweiss@gmail.com) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 # ACT 1: Girl's Night
 
@@ -724,7 +726,8 @@ Chief Executive Officer Edelweiss sits – hands in lap – in front of her reck
 
 "This song will broadcast until every last reactionary is found and shot."
 
-![The Worst - MAN](./TheWorstMan.mp3)
-![No price too small.](./TheWorstMan.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1jfMSzP7SKA?si=lvbh3Vy7qwSnhr9t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # THE END
+
+_The Red King © 2025 by Kyrie Edelweiss is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)._
