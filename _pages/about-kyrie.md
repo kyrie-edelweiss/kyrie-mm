@@ -1,9 +1,9 @@
 ---
-title: About Me
+title: about me
 excerpt: See more information about Kyrie.
 permalink: /about-kyrie/
 author_profile: false
-class: wide
+classes: wide
 ---
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/KyrieAbout.jpg" alt="">

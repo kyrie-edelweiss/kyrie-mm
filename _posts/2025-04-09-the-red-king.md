@@ -1,6 +1,8 @@
 ---
 title: The Red King
 excerpt: A fifteen-act tragedy.
+header:
+  image: /assets/images/RedKingHeader.jpg
 permalink: /red-king/
 toc: true
 toc_label: Chapters
@@ -721,7 +723,3 @@ Chief Executive Officer Edelweiss sits – hands in lap – in front of her reck
 "This song will broadcast until every last reactionary is found and shot."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1jfMSzP7SKA?si=lvbh3Vy7qwSnhr9t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-# THE END
