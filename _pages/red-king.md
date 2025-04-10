@@ -1,12 +1,7 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+title: The Red King
+excerpt: A fifteen-act tragedy.
+permalink: /red-king/
 ---
 ## ACT 1: Girl's Night
 
