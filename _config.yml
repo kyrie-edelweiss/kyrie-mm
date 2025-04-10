@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Edelweiss Archive"
 title_separator          : "-"
-subtitle                 : A collection of testaments. # site tagline that appears below site title in masthead
+subtitle                 : "a testament to my failures". # site tagline that appears below site title in masthead
 name                     : "Kyrie D'Agostino"
-description              : "This place is not a place of honor - nothing is valued here."
+description              : "this place is not a place of honor - nothing is valued here"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

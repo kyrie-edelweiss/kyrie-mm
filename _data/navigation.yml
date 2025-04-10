@@ -1,9 +1,9 @@
 # main links
 main:
-   - title: "The Red King"
-     url: /red-king/
-   - title: "You Can't Save All The Puppies"
-     url: /puppies/
+   #- title: "The Red King"
+     #url: /red-king/
+   #- title: "You Can't Save All The Puppies"
+     #url: /puppies/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
